@@ -1,0 +1,35 @@
+.recipe-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .recipe-title {
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .recipe-description {
+    font-size: 1.1rem;
+    color: #555;
+    margin-bottom: 20px;
+  }
+  
+  .ingredients-title,
+  .instructions-title {
+    font-size: 1.8rem;
+    color: #333;
+    margin-bottom: 15px;
+  }
+  
+  .ingredients-content,
+  .instructions-content {
+    font-size: 1.1rem;
+    color: #555;
+    line-height: 1.6;
+    background-color: #f9f9f9;
+    padding: 15px;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+  }

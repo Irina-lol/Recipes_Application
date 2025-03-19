@@ -1,0 +1,40 @@
+.categories-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .categories-title {
+    font-size: 2.5rem;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .categories-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .category-item {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    margin: 10px 0;
+    padding: 15px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .category-item:hover {
+    background-color: #e0e0e0;
+  }
+  
+  .category-link {
+    text-decoration: none;
+    color: #007bff;
+    font-size: 1.2rem;
+  }
+  
+  .category-link:hover {
+    text-decoration: underline;
+  }
