@@ -5,23 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd5089e5-0996-4361-b819-74b7b98b1b27" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/frontend_app_recipes/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend_app_recipes/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend_app_recipes/dist/bandle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend_app_recipes/dist/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend_app_recipes/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend_app_recipes/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend_app_recipes/src/components/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend_app_recipes/src/components/Categories.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend_app_recipes/src/components/Category.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend_app_recipes/src/components/Recipe.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend_app_recipes/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend_app_recipes/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend_app_recipes/src/styles/Categories.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend_app_recipes/src/styles/Category.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend_app_recipes/src/styles/Recipe.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend_app_recipes/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend_app_recipes/src/setupProxy.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app_recipes/app_recipes/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/app_recipes/app_recipes/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app_recipes/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/app_recipes/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app_recipes/recipes/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/app_recipes/recipes/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend_app_recipes/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend_app_recipes/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend_app_recipes/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend_app_recipes/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend_app_recipes/src/components/Categories.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend_app_recipes/src/components/Categories.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend_app_recipes/src/components/Category.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend_app_recipes/src/components/Category.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend_app_recipes/src/components/Recipe.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend_app_recipes/src/components/Recipe.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend_app_recipes/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend_app_recipes/src/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +24,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -40,14 +37,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/msi/PycharmProjects/levson/recipes_project"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/msi/PycharmProjects/levson/recipes_project&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\msi\PycharmProjects\levson\recipes_project" />

@@ -8,9 +8,9 @@ const Recipe = () => {
   const [recipe, setRecipe] = useState(null);
 
   useEffect(() => {
-    axios.get(`http://localhost:8000/api/recipes/${id}/`)
+    axios.get(`http://127.0.0.1:8000/api/recipes/${id}/`)
       .then(response => setRecipe(response.data))
-      .catch(error => console.error(error));
+      .catch(error => console.log(error));
   }, [id]);
 
   if (!recipe) return <div>Загрузка...</div>;

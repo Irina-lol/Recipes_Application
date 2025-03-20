@@ -9,13 +9,13 @@ const Category = () => {
   const [recipes, setRecipes] = useState([]);
 
   useEffect(() => {
-    axios.get(`http://localhost:8000/api/categories/${id}/`)
+    axios.get(`http://127.0.0.1:8000/api/categories/${id}/`)
       .then(response => setCategory(response.data))
-      .catch(error => console.error(error));
+      .catch(error => console.log(error));
 
-    axios.get(`http://localhost:8000/api/recipes/?category=${id}`)
+    axios.get(`http://127.0.0.1:8000/api/recipes/?category=${id}`)
       .then(response => setRecipes(response.data))
-      .catch(error => console.error(error));
+      .catch(error => console.log(error));
   }, [id]);
 
   if (!category) return <div>Загрузка...</div>;
