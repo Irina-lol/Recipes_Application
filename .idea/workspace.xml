@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd5089e5-0996-4361-b819-74b7b98b1b27" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/2025-03-19_12-12-04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/2025-03-20_14-12-08.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/2025-03-20_14-12-31.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/2025-03-20_14-12-50.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/2025-03-20_14-17-56.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/2025-03-20_14-18-46.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/2025-03-20_14-19-13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/2025-03-20_14-20-59.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/2025-03-20_14-21-20.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +43,7 @@
       <recent name="C:\Users\msi\PycharmProjects\levson\recipes_project" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\msi\PycharmProjects\levson\Recipes_Application\app_recipes" />
       <recent name="C:\Users\msi\PycharmProjects\levson\recipes_project\assets" />
     </key>
   </component>
